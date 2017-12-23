@@ -1,0 +1,28 @@
+{
+  "name": "node.js-parser",
+  "version": "1.0.0",
+  "description": "It's a node.js application which can parse news from site https://www.057.ua/",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cherio": "^1.0.0-rc.2",
+    "needle": "^2.1.0",
+    "request": "^2.83.0",
+    "tress": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavZaturinsky/node.js-parser.git"
+  },
+  "author": "Stanislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanislavZaturinsky/node.js-parser/issues"
+  },
+  "homepage": "https://github.com/stanislavZaturinsky/node.js-parser#readme"
+}
